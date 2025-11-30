@@ -1,6 +1,6 @@
 // Countdown Timer
 let countdownData = {
-    days: 30,
+    days: 90,
     hours: 12,
     minutes: 45,
     seconds: 20
